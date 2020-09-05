@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_layout"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Announcements" />
+        <item
+            android:id="@+id/nav_second_layout"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="Prayer Times" />
+        <item
+            android:id="@+id/nav_third_layout"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Events" />
+    </group>
+
+
+</menu>

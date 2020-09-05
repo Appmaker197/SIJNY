@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="false"
+    android:layout_below="@+id/action_bar"
+
+
+    >
+
+
+    <TextView android:id="@+id/title"
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dip"
+        android:text="Mooon Light Stuff"
+        android:clickable="false"
+        android:textColor="#000000"
+        android:textSize="24dip"
+        android:textStyle="bold"
+        />
+
+    <TextView android:id="@+id/tv_description"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:padding="10dip"
+        android:textColor="#000000"
+        android:textSize="16dip"
+        />
+
+
+
+</LinearLayout>

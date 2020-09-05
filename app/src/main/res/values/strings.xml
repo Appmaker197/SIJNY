@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SIJNY Islamic Center</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="_13_ramadan_1436">13 Ramadan 1436</string>
+    <string name="sijny_islamic_center">SIJNY Islamic Center</string>
+    <string name="time">Time</string>
+
+
+    <string name="Logo">Website Logo</string>
+    <string name="fajr">Fajir</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="zuhr">Zuhr</string>
+    <string name="_6_22pm">Loading...</string>
+    <string name="_12_34pm">Loading...</string>
+    <string name="_2_00am">Loading...</string>
+    <string name="_7_00am">Loading...</string>
+    <string name="october_21_2016_muharram_19">Loading...</string>
+</resources>

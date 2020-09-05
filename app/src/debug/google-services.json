@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "980968472971",
+    "firebase_url": "https://sijnydemo.firebaseio.com",
+    "project_id": "sijnydemo",
+    "storage_bucket": "sijnydemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980968472971:android:c7dcc848060c8a28",
+        "android_client_info": {
+          "package_name": "com.example.user.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980968472971-6cllaqbpib029vv4lvavsa5aq0qkrb4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa03OyRdS8cI68HbtSsPVGtHOAhHHLcuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
